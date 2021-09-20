@@ -1,4 +1,6 @@
+# download dependencies
+* `go mod download`
+
 # build
-`go mod download`
-`go build .`
+* `go build .`
 
